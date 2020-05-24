@@ -1,5 +1,5 @@
 {
-    "name": "RRWITP/set",
+    "name": "rrwitp/set",
     "type": "library",
     "description": "This is an utility class to store conventionally unique values, similar to JavaScript's Set.",
     "keywords": [ "set" ],
