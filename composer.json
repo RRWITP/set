@@ -3,7 +3,7 @@
     "type": "library",
     "description": "This is an utility class to store conventionally unique values, similar to JavaScript's Set.",
     "keywords": [ "set" ],
-    "homepage": "https://github.com/CharlotteDunois/Set",
+    "homepage": "https://github.com/RRWITP/Set",
     "license": "Apache-2.0",
     "authors": [
         {
